@@ -1,0 +1,19 @@
+#test{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.header {
+    background-color: #f8f9fa;
+    position: center;
+    font-family: Arial, sans-serif, consolas;
+    font-size: 80px;
+}
+
+body {
+    background-image: url('images/baground.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
