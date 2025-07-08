@@ -23,3 +23,8 @@ body {
     font-family: Arial, sans-serif, consolas;
     font-size: 20px;
 }
+body, html {
+    position: relative;
+    left : 400px;
+    top : 0;
+}

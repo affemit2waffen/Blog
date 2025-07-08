@@ -9,5 +9,6 @@
 #teaser {
     position: relative;
     left : 400px;
+    top : 70px;
     z-index: 3;
 }
