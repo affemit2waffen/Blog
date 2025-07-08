@@ -1,0 +1,13 @@
+.blog-detail-image {
+    width: 360px;
+    height: 200px;
+    position: relative;
+    left : 20px;
+    top: -60px;
+    z-index: 2;
+}
+#teaser {
+    position: relative;
+    left : 400px;
+    z-index: 3;
+}

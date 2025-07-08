@@ -17,3 +17,9 @@ body {
     background-position: center;
     background-size: cover;
 }
+.footer {
+    background-color: #f8f9fa;
+    position: right;
+    font-family: Arial, sans-serif, consolas;
+    font-size: 20px;
+}
